@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GADS 2020 Leaderboard</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="submit">SUBMIT</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="submission_success">Submission Successful</string>
+    <string name="project_submission">Project Submission</string>
+</resources>

@@ -4,6 +4,8 @@
 
 <p float = "left">
 <img src="screenshots/launch.png" width=200/>
+<img src="screenshots/learningleaders.png" width=200/>
+<img src="screenshots/skillleaders.png" width=200 >
 <img src="screenshots/submitform.png" width=200/>
 <img src="screenshots/query.png" width=200/>
 <img src="screenshots/success.png" width=200/>
